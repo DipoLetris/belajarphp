@@ -18,5 +18,6 @@ function cetak($nama){
     echo waktuSaatIni()." $nama"; 
 }
 
+
 cetak("Dipo");
 ?>
